@@ -1,0 +1,1 @@
+This is a test project that is used to follow basic tutorials in Microsoft's Developer Training portal for .NET and C# - Its contents will be continually re-written and replaced as its purpose is sort of a sandbox for learning outside of more formalized projects
